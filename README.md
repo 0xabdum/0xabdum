@@ -25,6 +25,6 @@ Halo! 👋 Saya menggunakan akun ini untuk membangun **kebiasaan produktif setia
 
 ## 🎯 Koneksi  
 🔗 **Portofolio utama saya:** [GitHub Utama](https://github.com/aldiabdumalik)  
-📧 **Hubungi saya:** [https://www.linkedin.com/in/aldiabdumalik/]  
+📧 **Hubungi saya:** [Linkedin](https://www.linkedin.com/in/aldiabdumalik/)
 
 Mari tetap konsisten dan produktif! 🚀🔥  
