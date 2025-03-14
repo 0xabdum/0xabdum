@@ -18,8 +18,8 @@ Halo! 👋 Saya menggunakan akun ini untuk membangun **kebiasaan produktif setia
 ---
 
 ## 📊 Statistik GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=**0xabdum**&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**0xabdum**&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xabdum&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xabdum&layout=compact&theme=tokyonight)  
 
 ---
 
