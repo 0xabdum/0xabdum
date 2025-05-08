@@ -1,7 +1,7 @@
-Halo! 👋 Saya menggunakan akun ini untuk membangun **kebiasaan produktif setiap hari** dengan menulis kode, mengerjakan proyek kecil, dan bereksperimen dengan berbagai teknologi.  
+Halo! 👋 Saya menggunakan akun ini untuk berusaha membangun **kebiasaan produktif** dengan menulis kode, mengerjakan proyek kecil, dan bereksperimen dengan berbagai teknologi.  
 
 ## 🎯 Tujuan Saya  
-- ✅ Menulis kode **setiap hari** untuk meningkatkan keterampilan saya  
+- ✅ Menulis kode **setiap hari (jika memungkinkan 😀)** untuk meningkatkan keterampilan saya  
 - 📂 Membangun proyek kecil yang bisa saya gunakan atau bagikan  
 - 🛠️ Bereksperimen dengan teknologi baru dan pendekatan pemrograman yang lebih baik  
 - 📊 Melacak progres saya dalam perjalanan belajar dan produktivitas  
